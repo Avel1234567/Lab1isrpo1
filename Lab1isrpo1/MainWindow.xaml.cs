@@ -24,5 +24,12 @@ namespace Lab1isrpo1
         {
             InitializeComponent();
         }
+
+        private void ButtonClick_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
+
 }
+
